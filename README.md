@@ -1,8 +1,8 @@
-### Hi there 👋, Im sparethepoor!
+### Hi there 👋, Im Agxxs!
 
-- 🔭 I’m currently working on ElectricHCF
+- 🔭 I’m currently working on Discord Bots
 - 🌱 I’m currently learning Java
-- 📫 How to reach me: Talk with me on discord, sparethepoor
+- 📫 How to reach me: Talk with me on discord, agxxs.fgc
 <!--
 **sparethepoors/sparethepoors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
